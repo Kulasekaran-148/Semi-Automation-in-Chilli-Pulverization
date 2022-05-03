@@ -1,2 +1,2 @@
-# Pulverizer
+# Semi-Automation in Chilly Pulverization
 This is my final year project.  This was focused on reduing the workload of small scale spice mill workers working on Plate mill machines. Dry chilly is fed as input into the hopper and grinded into fine powder. But this feeding and grinding process is done 3-4 times to get the fineness in powder. Our project intends to take over this refeeding part so that human workers doesn't have to spend too much effort all the day
